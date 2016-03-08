@@ -1,5 +1,5 @@
+**Danny and Michael's GPS 1.1**
 
-**Mike and Danny's GPS 1.1**
 
 *learning markdown/creating links/emphasis/headers*
 
